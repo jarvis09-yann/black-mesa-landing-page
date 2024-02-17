@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
 body {
   max-width: 100%;
   overflow-x: hidden;
@@ -39,6 +41,9 @@ header a {
 
 .title-container {
   display: flex;
+  justify-content: space-around;
+  padding-top: 15vh;
+  padding-bottom: 15vh;
 }
 .title {
   display: flex;
@@ -51,6 +56,11 @@ header a {
   margin: 0;
 }
 
+.title p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
 .title-container img {
   width: 250px;
 }
@@ -61,5 +71,6 @@ button {
   width: 100px;
   border-style: none;
   border-radius: 5px;
-  padding: 5px;
+  padding: 8px;
+  cursor: pointer;
 }
