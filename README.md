@@ -28,3 +28,5 @@ Ideas of future improvements: adding a form and a backend where users could send
 Parts of the text have been AI generated (i guess it's still better than just Lorem Ipsum)
 
 Thank you for checking out my silly website.
+
+![A preview of the webpage]("./preview.png" "website preview")
