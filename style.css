@@ -74,3 +74,37 @@ button {
   padding: 8px;
   cursor: pointer;
 }
+
+.cards-section h2 {
+  display: flex;
+  justify-content: center;
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: bolder;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: space-around;
+  justify-content: center;
+  gap: 10px;
+}
+
+.card img {
+  width: 100px;
+  /* border: 3px #3882f6 solid; */
+  border: 3px #000 solid;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.card {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card p {
+  text-align: center;
+}
