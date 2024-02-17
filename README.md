@@ -29,4 +29,4 @@ Parts of the text have been AI generated (i guess it's still better than just Lo
 
 Thank you for checking out my silly website.
 
-![A preview of the webpage]("./preview.png" "website preview")
+![A preview of the webpage](./preview.png "website preview")
