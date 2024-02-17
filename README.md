@@ -1,7 +1,9 @@
 # landing-page
 
 A dummy landing page created while folowing the Odin Project foundations course.
-More info at: https://www.theodinproject.com/lessons/foundations-landing-page
+More info on the [Odin project](https://www.theodinproject.com/lessons/foundations-landing-page)
+
+**_Preview of the page & model at the end of the README_**
 
 ## Credits:
 
@@ -30,3 +32,5 @@ Parts of the text have been AI generated (i guess it's still better than just Lo
 Thank you for checking out my silly website.
 
 ![A preview of the webpage](./preview.png "website preview")
+
+![The model used to create the webpage](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png "the model used")
