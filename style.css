@@ -128,3 +128,30 @@ button {
   color: #1f2937;
   margin-left: 50%;
 }
+
+.apply-section {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.apply-container {
+  background: #3882f6;
+  width: 70vw;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+
+.apply-text {
+  color: #f9faf8;
+  margin: 8px;
+}
+
+.apply-container button {
+  outline: #f9faf8 1px solid;
+}
