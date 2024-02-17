@@ -16,3 +16,11 @@ Valve Corporation (cant count up to 3) for the Black Mesa logo and the Half life
 [Chart icon](https://www.flaticon.com/free-icon/bar-chart_478544?term=chart&page=1&position=1&origin=search&related_id=478544)
 
 [Atom icon](https://www.flaticon.com/free-icon/science_707557?term=science&page=1&position=54&origin=search&related_id=707557)
+
+## NOTE:
+
+DOD means Department Of Defense.
+
+English not being my first language there may be some english mistakes. If you find any, feel free to make a pull request.
+
+Thank you for checking out my silly website.
