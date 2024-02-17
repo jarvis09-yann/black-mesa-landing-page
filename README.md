@@ -23,4 +23,8 @@ DOD means Department Of Defense more info on [Wikipedia](https://en.wikipedia.or
 
 English not being my first language there may be some english mistakes. If you find any, feel free to make a pull request.
 
+Ideas of future improvements: adding a form and a backend where users could send (fake) applications to work at Black Mesa (probably will be when i'll learn backend dev.)
+
+Parts of the text have been AI generated (i guess it's still better than just Lorem Ipsum)
+
 Thank you for checking out my silly website.
