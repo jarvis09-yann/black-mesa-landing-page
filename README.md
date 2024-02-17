@@ -19,7 +19,7 @@ Valve Corporation (cant count up to 3) for the Black Mesa logo and the Half life
 
 ## NOTE:
 
-DOD means Department Of Defense.
+DOD means Department Of Defense more info on [Wikipedia](https://en.wikipedia.org/wiki/United_States_Department_of_Defense).
 
 English not being my first language there may be some english mistakes. If you find any, feel free to make a pull request.
 
