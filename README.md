@@ -1,7 +1,7 @@
 # Dummy Black Mesa Landing Page
 
 ## Live demo [HERE](https://blackmesa.jarvis09.com) (personal website)
-**Or [here](https://jarvis09-yann.github.io/black-mesa-landing-page/) (hosted on Github pages)
+**Or [here](https://jarvis09-yann.github.io/black-mesa-landing-page/) (hosted on Github pages)**
 
 A dummy landing page created while folowing the Odin Project foundations course.
 More info on the [Odin project](https://www.theodinproject.com/lessons/foundations-landing-page)
